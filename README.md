@@ -4,4 +4,4 @@ There are various approaches to solve graph classification problem. Graph embedd
 
 <a href="https://arxiv.org/pdf/1810.09155.pdf">[1]</a> N. de Lara and E. Pineau, "A Simple Baseline Algorithm for Graph Classification" In Relational Representation Learning, NIPS 2018 Workshop, Montréal, Canada.
 
-<a href="https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification">Original code.</a>
+The official implementation from the author can be accessed <a href="https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification">here.</a>
